@@ -1,3 +1,11 @@
+/**
+ * ------------------------------------------------------------
+ *  Owner    : K. Dileepa Thushan Peiris
+ *  GitHub   : https://github.com/dileepapeiris
+ *  Created  : 2025-11-26
+ * ------------------------------------------------------------
+ */
+
 import React from "react";
 import { Text, TextProps, StyleSheet, Platform } from "react-native";
 

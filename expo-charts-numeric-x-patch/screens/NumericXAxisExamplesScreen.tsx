@@ -1,3 +1,11 @@
+/**
+ * ------------------------------------------------------------
+ *  Owner    : K. Dileepa Thushan Peiris
+ *  GitHub   : https://github.com/dileepapeiris
+ *  Created  : 2025-11-26
+ * ------------------------------------------------------------
+ */
+
 import { Chart, Host } from "@expo/ui/swift-ui";
 import React from "react";
 import { View, StyleSheet, ScrollView, Text } from "react-native";
