@@ -13,7 +13,8 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.dileepapeiris.expo-charts-numeric-x-patch"
     },
     "android": {
       "adaptiveIcon": {
